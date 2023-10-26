@@ -1,0 +1,13 @@
+total 0
+drwx------@   4 seong.h  staff   128B  9 15 10:12 Applications
+drwx------+  49 seong.h  staff   1.5K  9 26 16:41 Desktop
+drwx------+   7 seong.h  staff   224B  9  8 11:38 Documents
+drwx------+ 180 seong.h  staff   5.6K 10  3 20:39 Downloads
+drwx------@  91 seong.h  staff   2.8K  9  8 11:38 Library
+drwx------    5 seong.h  staff   160B  9 25 15:46 Movies
+drwx------+   5 seong.h  staff   160B  9 25 15:45 Music
+drwxr-xr-x    6 seong.h  staff   192B 10  3 22:25 OSSLab
+drwx------+   6 seong.h  staff   192B  9 19 16:49 Pictures
+drwxr-xr-x    4 seong.h  staff   128B  3  9  2023 Projects
+drwxr-xr-x+   5 seong.h  staff   160B  3  9  2023 Public
+-rw-r--r--    1 seong.h  staff     0B 10  3 22:28 file.uplist.txt
